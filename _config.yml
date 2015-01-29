@@ -1,0 +1,16 @@
+# Site settings
+title: Code Feed
+email: your-email@domain.com
+description: "The front-end Feed"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: AbhishekSachan3
+github_username:  abhisack
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Sass
+sass:
+style: :compressed
