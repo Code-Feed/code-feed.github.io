@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "HTML5 Rocks"
+btn: "http://html5rocks.com"
 ---
 
 
