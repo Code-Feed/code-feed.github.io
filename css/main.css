@@ -5,9 +5,8 @@
 	left: -1366px;
 }
 
-.border {
-	/***************** Style Here ********************/
-	}
+
+
 
 
 
@@ -23,6 +22,11 @@ width: 100%;
 font-family: verdana, sans-serif;
 overflow-x: hidden;
 
+}
+
+a {
+	text-decoration: none;
+	
 }
 
 
