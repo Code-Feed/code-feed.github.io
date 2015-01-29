@@ -85,10 +85,7 @@ box-shadow: 0 2px 2px -2px black;
  vertical-align: middlle;
 }
 
-.header a {
-	color: white;
-	text-decoration: none;
-}
+
 
 .header h2 {
 padding: 0;
@@ -100,8 +97,10 @@ line-height: 20vh;
 }
 
 .header h2 a {
-	color: white;
+	color: white !important;
 }
+
+
 
 .nav-menu {
 	
